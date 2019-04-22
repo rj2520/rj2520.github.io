@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     forks: true
     projects:
@@ -45,12 +45,12 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: CSS
+  - name: Software Development
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
+  - name: Auto Racing
 
-  - name: Sass
+  - name: Photography
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
